@@ -13,13 +13,11 @@ public class Orden{
 	}
 	
 	public void agregarProducto(Producto producto) {
-		if(this.contadorProductos < Orden.MAX_PRODUCTOS) {
-			this.productos[this.contadorProductos++] = producto;
-		}
-		
-		else {
+		if( !(this.contadorProductos > Orden.MAX_PRODUCTOS)) {
 			System.out.println("Se ha superado el máximo de productos: " + Orden.MAX_PRODUCTOS);
+			return;
 		}
+		this.productos[this.contadorProductos++] = producto;
 	}
 	
 	public double calcularTotal() {
