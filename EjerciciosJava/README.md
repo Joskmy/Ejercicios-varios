@@ -15,7 +15,7 @@ Cada subcarpeta dentro de "EjerciciosJava", a excepción de "EjerciciosVariadosJ
    Esta subcarpeta contiene un proyecto que aborda la gestión de un catálogo de películas. El objetivo principal de este ejercicio era implementar el manejo de archivos utilizando Java. Aquí encontrarás una solución completa al problema, incluyendo el código fuente y diagramas UML para ilustrar la estructura del proyecto.
 
 ### 3. **SistemaEstudiantes**
-   [Catálogo de Películas](https://github.com/Joskmy/Ejercicios-varios/tree/main/EjerciciosJava/SistemaEstudiantesSpring)
+   [SistemaEstudiantes](https://github.com/Joskmy/Ejercicios-varios/tree/main/EjerciciosJava/SistemaEstudiantesSpring)
 
    Esta subcarpeta contiene un proyecto que aborda la gestion de los estudiantes. El objetivo principal de este ejercicio era utilizar el framework Spring boot y mysql. Recordar que son ejercicios elaborados en el curso de Udemy de Java de principiante a experto
    
